@@ -8,7 +8,7 @@ using System.Web.Mvc;
 using MvcPaging;
 using System.Globalization;
 
-namespace iloire_Facturacion.Controllers
+namespace invoice.Controllers
 {
     [Authorize]
     public class InvoiceController : Controller
