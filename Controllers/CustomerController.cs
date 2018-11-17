@@ -1,9 +1,3 @@
-﻿/*
-	Iván Loire - www.iloire.com
-	Please readme README file for license terms.
-
-	ASP.NET MVC3 ACME Invocing app (demo app for training purposes)
-*/
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +7,7 @@ using System.Web;
 using System.Web.Mvc;
 using MvcPaging;
 
-namespace iloire_Facturacion.Controllers
+namespace inv.Controllers
 {
    [Authorize]
     public class CustomerController : Controller
