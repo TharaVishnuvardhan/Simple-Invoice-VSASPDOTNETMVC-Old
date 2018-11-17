@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Web.Mvc;
 using System.Web.Security;
 
-namespace iloire_Facturacion.Models
+namespace inv.Models
 {
 
     public class ChangePasswordModel
