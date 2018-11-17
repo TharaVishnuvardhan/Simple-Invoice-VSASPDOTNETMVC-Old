@@ -1,12 +1,3 @@
-﻿/*
-Iván Loire - www.iloire.com
-Please readme README file for license terms.
-
-ASP.NET MVC3 ACME Invocing app (demo app for training purposes)
-
-Descripction: Custom Membership proider for this app. This Membership provider validates user agains the User table.
-*/
-
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -15,7 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace  iloire_Facturacion.Models.Security {
+namespace  inv.Models.Security {
 
     public class InvoicingMembershipProvider : System.Web.Security.MembershipProvider {
 
