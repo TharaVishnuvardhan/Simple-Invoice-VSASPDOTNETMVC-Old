@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using Elmah;
 
-namespace iloire_Facturacion.Models.Attributes
+namespace inv.Models.Attributes
 {
     public class HandleErrorAttribute : System.Web.Mvc.HandleErrorAttribute
     {
