@@ -1,4 +1,3 @@
-﻿//author: https://github.com/martijnboland/MvcPaging
 using System;
 using System.Collections.Generic;
 using System.Linq;
